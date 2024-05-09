@@ -1,0 +1,3 @@
+NODE_ENV = {Your key here}
+JWT_SECRET = {Your key here}
+OPENAI_KEY = {Your key here}
